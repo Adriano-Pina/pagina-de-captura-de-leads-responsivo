@@ -4,3 +4,5 @@ A página é uma poderosa ferramenta de geração de leads porque permite fornec
 ![Página de Captura de Leads Responsivo](https://github.com/Adriano-Pina/pagina-de-captura-de-leads-responsivo/assets/98466588/12f3aab0-d73c-4c00-ac02-158d30d4808b)
 
 Munido dessas informações, você pode construir uma lista de contatos qualificados, alimentá-los com conteúdo relevante, convertê-los em clientes e aumentar as vendas.
+
+Página de Captura de Leads Responsivo feito em HTML, CSS e JavaScript, com um bloqueador de conteúdo para que o visitante da página não consiga copiar as informações da página.
